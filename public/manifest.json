@@ -1,3 +1,21 @@
 {
-
+  "name": "",
+  "short_name" : "",
+  "start_url": "/index.html",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#FFF",
+  "theme_color": "",
+  "description": "",
+  "dir": "ltr",
+  "lang": "en-US",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "",
+      "type": "image/png",
+      "sizes": "48x46"
+    }
+  ],
+  "related_applications": []
 }

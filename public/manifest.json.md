@@ -1,0 +1,33 @@
+## Property simple descriptions
+
+- `name`
+  - Long name of App
+- `short_name`
+  - Short name of App
+- `start_url`
+  - Which page to load on startup
+- `scope`
+  - Which pages are included in PWA experience
+- `display`
+  - Should it look like a standalone app?
+- `background_color`
+  - Background whilst loading & on Splash screen
+- `theme_color`
+  - Theme color of App (e.g. on top bar in task switcher)
+- `description`
+  - Description of App
+- `dir`
+  - Read direction of App (ltr = left to right)
+- `lang`
+  - Main language of App
+- `orientation`
+  - Set (and enforce) default orientation (portrait or landscape)
+- `icons`
+  - Icons for App (e.g. to be shown on home screen)
+  - `src`
+    - Icon path
+  - `type`
+    - Image type (e.g. image/png)
+  - `sizes`
+    - Icon size, browser chooses best one for device. 48x48 is required at least.
+- `related_applications`
