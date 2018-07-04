@@ -10,6 +10,7 @@
   - Which pages are included in PWA experience
 - `display`
   - Should it look like a standalone app?
+  - `standalone` `minimal-ui` `fullscreen` `browser`
 - `background_color`
   - Background whilst loading & on Splash screen
 - `theme_color`
